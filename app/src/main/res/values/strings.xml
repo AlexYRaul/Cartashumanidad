@@ -3,4 +3,8 @@
     <string name="usuario">User</string>
     <string name="email">Email</string>
     <string name="contrasena">Password</string>
+    <string name="Acceder">Login</string>
+    <string name="NoTienesCuenta"><u>Not a member?</u></string>
+    <string name="Atencion">Warning!</string>
+    <string name="Aviso">This game contains sensitive content that some people may find offensive or disturbing. If you are a person sensitive to these contents, we recommend that you stop playing.</string>
 </resources>

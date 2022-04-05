@@ -4,4 +4,8 @@
     <string name="usuario">Usuario</string>
     <string name="email">Correo electrónico</string>
     <string name="contrasena">Contraseña</string>
+    <string name="Acceder">Acceder</string>
+    <string name="NoTienesCuenta"><u>¿No tienes cuenta? Registrate.</u></string>
+    <string name="Atencion">¡Atención!</string>
+    <string name="Aviso">Este juego incluye contenido delicado que algunas personas pueden encontrar ofensivo o molesto. Si eres una persona sensible a estos contenido le recomendamos que deje de jugar.</string>
 </resources>
