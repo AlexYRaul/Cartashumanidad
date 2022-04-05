@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         splash.setAnimation(animacion1);
 
 
-        //Lanzo el ScreenSplash y a los 4 segundos lanzo la activity login
+        //Lanzo el ScreenSplash y a los 3 segundos lanzo la activity login
         new Handler() .postDelayed (new Runnable() {
             @Override
             public void run(){
@@ -41,6 +41,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
                 finish();
             }
-        },2000);
+        },3000);
     }
 }
