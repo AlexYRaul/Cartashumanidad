@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="letra1">#F3C0FF</color>
     <color name="LetraPrincipal">#B477C3</color>
+    <color name="LetraSecundaria">#68BCA1</color>
 </resources>

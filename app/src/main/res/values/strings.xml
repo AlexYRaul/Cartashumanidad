@@ -2,4 +2,5 @@
     <string name="app_name">Cartas VS humanidad</string>
     <string name="usuario">User</string>
     <string name="email">Email</string>
+    <string name="contrasena">Password</string>
 </resources>
