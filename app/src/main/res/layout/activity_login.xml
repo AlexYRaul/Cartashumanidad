@@ -105,7 +105,8 @@
         android:gravity="center|center_horizontal|center_vertical"
         android:inputType="textPassword"
         android:textColor="@color/LetraSecundaria"
-        android:textSize="20sp" />
+        android:textSize="20sp"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <TextView
         android:id="@+id/tvRecuperarContra"
@@ -133,10 +134,10 @@
         android:layout_marginStart="40dp"
         android:layout_marginTop="30dp"
         android:layout_marginEnd="40dp"
-        android:fontFamily="@font/acme"
+        android:fontFamily="sans-serif"
         android:gravity="center|center_horizontal|center_vertical"
         android:text="@string/NoTienesCuenta"
         android:textColor="#54B0DC"
-        android:textSize="20sp" />
+        android:textSize="16sp" />
 
 </RelativeLayout>

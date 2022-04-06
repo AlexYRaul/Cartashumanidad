@@ -29,14 +29,6 @@ public class MainActivity extends AppCompatActivity {
         new Handler() .postDelayed (new Runnable() {
             @Override
             public void run(){
-
-                //Lanzo un toast de bienvenida
-                Context context = getApplicationContext();
-                CharSequence text = "Bienvenido";
-                int duration = Toast.LENGTH_SHORT;
-
-                Toast toast = Toast.makeText(context, text, duration);
-                toast.show();
                 Intent intent=new Intent (MainActivity.this,Aviso.class);
                 startActivity(intent);
                 finish();
