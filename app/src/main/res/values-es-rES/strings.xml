@@ -11,4 +11,5 @@
     <string name="confirmarContrasena">Confirmar contraseña</string>
     <string name="crearCuenta">Registrarse</string>
     <string name="cancelar">Cancelar</string>
+    <string name="NoRecuerdas"><u>¿No recuerdas la contraseña?</u></string>
 </resources>
