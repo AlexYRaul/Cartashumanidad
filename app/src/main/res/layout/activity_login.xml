@@ -16,7 +16,7 @@
         android:layout_alignParentEnd="true"
 
         android:layout_marginStart="40dp"
-        android:layout_marginTop="17dp"
+        android:layout_marginTop="10dp"
         android:layout_marginEnd="40dp"
         android:background="@drawable/style_border_editext3"
         android:backgroundTint="@color/LetraPrincipal"
