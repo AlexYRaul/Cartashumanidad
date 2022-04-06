@@ -7,4 +7,7 @@
     <string name="NoTienesCuenta"><u>Not a member?</u></string>
     <string name="Atencion">Warning!</string>
     <string name="Aviso">This game contains sensitive content that some people may find offensive or disturbing. If you are a person sensitive to these contents, we recommend that you stop playing.</string>
+    <string name="confirmarContrasena">Confirm password</string>
+    <string name="crearCuenta">Register</string>
+    <string name="cancelar">Cancel</string>
 </resources>
