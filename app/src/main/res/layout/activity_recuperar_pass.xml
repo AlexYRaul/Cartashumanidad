@@ -79,14 +79,13 @@
         android:layout_below="@+id/btnConfirmar"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
         android:layout_marginStart="40dp"
         android:layout_marginTop="15dp"
         android:layout_marginEnd="40dp"
-        android:layout_marginBottom="79dp"
         android:background="@drawable/style_border_editext"
         android:backgroundTint="@color/LetraPrincipal"
         android:fontFamily="@font/acme"
+        android:onClick="Cancelar"
         android:text="@string/cancelar"
         android:textSize="24sp" />
 </RelativeLayout>

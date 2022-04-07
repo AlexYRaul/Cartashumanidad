@@ -120,6 +120,7 @@
         android:layout_marginEnd="40dp"
         android:fontFamily="sans-serif"
         android:gravity="right|center_vertical"
+        android:onClick="RecuperarPassword"
         android:text="@string/NoRecuerdas"
         android:textColor="#54B0DC"
         android:textSize="16sp" />
@@ -136,6 +137,7 @@
         android:layout_marginEnd="40dp"
         android:fontFamily="sans-serif"
         android:gravity="center|center_horizontal|center_vertical"
+        android:onClick="registrarme"
         android:text="@string/NoTienesCuenta"
         android:textColor="#54B0DC"
         android:textSize="16sp" />
