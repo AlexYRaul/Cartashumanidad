@@ -11,4 +11,7 @@
     <string name="crearCuenta">Register</string>
     <string name="cancelar">Cancel</string>
     <string name="NoRecuerdas"><u>Forgot password?</u></string>
+    <string name="EmailRecuperar">Enter the email of the password you want to recover</string>
+    <string name="Aceptar">Agree</string>
+    <string name="Confirmar">Confirm</string>
 </resources>

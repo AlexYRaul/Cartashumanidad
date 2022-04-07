@@ -12,4 +12,7 @@
     <string name="crearCuenta">Registrarse</string>
     <string name="cancelar">Cancelar</string>
     <string name="NoRecuerdas"><u>¿No recuerdas la contraseña?</u></string>
+    <string name="EmailRecuperar">Introduce el email de la contraseña que quieres recuperar</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="Confirmar">Confirmar</string>
 </resources>
